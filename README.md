@@ -22,7 +22,7 @@ No installation is needed as my app is live and deployed.
 
 ## Usage
 
-(https://gentle-brook-44437.herokuapp.com)[https://gentle-brook-44437.herokuapp.com]
+[https://gentle-brook-44437.herokuapp.com](https://gentle-brook-44437.herokuapp.com)
 
 
 ## Tests
